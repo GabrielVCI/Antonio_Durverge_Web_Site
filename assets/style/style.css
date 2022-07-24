@@ -8,7 +8,10 @@
     background-color: aqua;
 
 }*/
-
+body{
+    margin: 0%;
+    padding: 0%;
+}
 .container_Navbar{
 
     background-color:bisque;
